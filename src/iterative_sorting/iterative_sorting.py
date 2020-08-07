@@ -58,7 +58,7 @@ def bubble_sort(arr):
     return arr
 
 
-# # NOT MY SOLUTION, BUT BETTER RUNTIME
+# # NOT MY SOLUTION
 # def bubble_sort(arr):
 #     isSorted = False  # assume the arr is not sorted
 #     counter = 0 #set a counter to reduce traversing the entire array on each pass. 
